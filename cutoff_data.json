@@ -1,0 +1,34 @@
+{
+  "cutoff_data": [
+    {
+      "college": "Bangalore Medical College",
+      "closing_rank": 13570,
+      "state": "Karnataka",
+      "category": "GEN"
+    },
+    {
+      "college": "Dr. B. R. Ambedkar Medical College",
+      "closing_rank": 60701,
+      "state": "Karnataka",
+      "category": "GEN"
+    },
+    {
+      "college": "Kempegowda Institute of Medical Sciences",
+      "closing_rank": 47447,
+      "state": "Karnataka",
+      "category": "OBC"
+    },
+    {
+      "college": "M. S. Ramaiah Medical College",
+      "closing_rank": 47177,
+      "state": "Karnataka",
+      "category": "SC"
+    },
+    {
+      "college": "Khaja Bande Navaz Institute of Medical Sciences",
+      "closing_rank": 88343,
+      "state": "Karnataka",
+      "category": "ST"
+    }
+  ]
+}
